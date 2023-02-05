@@ -72,7 +72,7 @@ spring:
     name: notification-service
   cloud:
     config:
-      uri: http://config:8888
+      uri: http://config:28888
       fail-fast: true
 ```
 
